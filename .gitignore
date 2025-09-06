@@ -1,0 +1,23 @@
+Python virtual environment
+venv/
+/venv/
+
+Python cache
+pycache/
+*.py[cod]
+*$py.class
+
+Environment variables
+.env
+
+VSCode specific
+.vscode/
+
+Node.js dependencies
+node_modules/
+
+Next.js build directory
+.next/
+
+Other
+.DS_Store
